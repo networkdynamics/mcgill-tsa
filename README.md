@@ -34,4 +34,4 @@ src/tweet.py          ==> handy tweet objects, contains original and preprocesse
 Code used for feature extraction and experimental design in the paper is available on request.
 
 ## Contact
-Contact [Kian Kenyon-Dean](https://kiankd.github.io/) at *kian.kenyon-dean@mail.mcgill.ca* for questions about this repository.
+Contact [Kian Kenyon-Dean](https://kiankd.github.io/) at *kian.kenyon-dean@mail.mcgill.ca* (or, [on github](https://github.com/kiankd)  for questions about this repository.
