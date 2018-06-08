@@ -1,5 +1,5 @@
 # McGill Twitter Sentiment Analysis dataset (MTSA)
-This repository stores all code and files related to the MTSA dataset. The corresponding paper accepted at NAACL 2018, "Sentiment Analysis: It's Complicated", can be found online [here](aclweb.org/anthology/N18-1171).
+This repository stores all code and files related to the MTSA dataset. The corresponding paper accepted at NAACL 2018, "Sentiment Analysis: It's Complicated", can be found online [here](https://aclweb.org/anthology/N18-1171).
 
 **You may only use this code and dataset for _non-proprietary research_ purposes, as per Twitter's terms of service.** Additionally, note that this project uses the GPU GPLv3 license, meaning that you may not incorporate this program "into proprietary programs".
 
